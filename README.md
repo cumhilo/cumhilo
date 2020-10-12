@@ -1,6 +1,7 @@
 ### Welcome to vCamilo's cave :wave:
- * :heart_eyes: My name is Camilo, I am currently Founder of [@KyozkDevelopment](https://discord.me/kyozk), Co-Owner at [@HazelMC](http://hazelmc.com/discord) and COO at [@VelixServices](https://discord.gg/qHdxPDm) !.
+ * :heart_eyes: My name is **Camilo**, I am currently Founder of [@KyozkDevelopment](https://discord.me/kyozk), Co-Owner at [@HazelMC](http://hazelmc.com/discord) and COO at [@VelixServices](https://discord.gg/qHdxPDm) !.
  * :palm_tree: I am learning Java and Python.
+ * :partying_face: I am 15 years old
  * :incoming_envelope: If you want to negotiate with me you can do it from my discord: **Camilø#0001**
 
 ### vCamilo GitHub Stats :stars: 
