@@ -10,6 +10,6 @@
 <a href="https://www.mc-market.org/members/242169/">
   <img align="right" alt="vCamilx MC-Market" width="22px" src="https://www.svgrepo.com/show/112470/online-market.svg" />
 </a>
-<a href="https://twitter.com/vCamilx">
+<a href="https://twitter.com/vCamilo_x">
   <img align="right" alt="My Twitter!" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
