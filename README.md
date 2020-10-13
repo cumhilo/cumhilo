@@ -1,10 +1,10 @@
-### Welcome to vCamilo's cave :wave:
- * :heart_eyes: My name is **Camilo**, I am currently Founder of [@KyozkDevelopment](https://discord.me/kyozk), Co-Owner at [@HazelMC](http://hazelmc.com/discord) and COO at [@VelixServices](https://discord.gg/qHdxPDm) !.
- * :palm_tree: I am learning Java and Python.
- * :partying_face: I am 15 years old
- * :incoming_envelope: If you want to negotiate with me you can do it from my discord: **Camilø#0001**
+### Welcome to vCamilo's cave 👋
+ * 😍 My name is **Camilo**, I am currently Founder of [@KyozkDevelopment](https://discord.me/kyozk), Co-Owner at [@HazelMC](http://hazelmc.com/discord) and COO at [@VelixServices](https://discord.gg/qHdxPDm) !.
+ * 🌴 I am learning Java and Python.
+ * 🥳 I am 15 years old
+ * 📨 If you want to negotiate with me you can do it from my discord: **Camilø#0001**
 
-### vCamilo GitHub Stats :stars: 
+### vCamilo GitHub Stats 🌠
 
 <a href="https://github.com/vCamilx">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vCamilx&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="vCamilx's github stats" />
