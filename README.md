@@ -7,8 +7,12 @@
 ### vCamilo GitHub Stats 🌠
 
 <a href="https://github.com/vCamilx">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vCamilx&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="vCamilx's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vCamilx&theme=midnight-purple&locale=en" alt="vCamilx's github stats"/>
 </a>
+<a href="https://github.com/vCamilx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vCamilx&layout=compact&theme=midnight-purple&locale=en" alt="vCamilx's most used languages"/>
+</a>
+
 
 <a href="https://www.mc-market.org/members/242169/">
   <img align="right" alt="vCamilx MC-Market" width="22px" src="https://www.svgrepo.com/show/112470/online-market.svg" />
