@@ -4,13 +4,19 @@
  * 🥳 I am 15 years old
  * 📨 If you want to negotiate with me you can do it from my discord: **Camilø#0001**
 
-### vCamilo GitHub Stats 🌠
+---
+
+## vCamilo GitHub Stats 🌠
 
 <a href="https://github.com/vCamilx">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vCamilx&theme=midnight-purple&locale=en" alt="vCamilx's github stats"/>
 </a>
 <br>
-<br>
+
+---
+
+## vCamilo Most used languages 🌠
+
 <a href="https://github.com/vCamilx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vCamilx&layout=compact&theme=midnight-purple&locale=en" alt="vCamilx's most used languages"/>
 </a>
