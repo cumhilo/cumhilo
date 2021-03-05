@@ -6,7 +6,7 @@
 
 ---
 
-## vCamilo GitHub Stats 🌠
+### GitHub Stats 🎊
 
 <a href="https://github.com/vCamilx">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vCamilx&theme=midnight-purple&locale=en" alt="vCamilx's github stats"/>
@@ -15,7 +15,7 @@
 
 ---
 
-## vCamilo Most used languages 🌠
+### Most used languages ✨
 
 <a href="https://github.com/vCamilx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vCamilx&layout=compact&theme=midnight-purple&locale=en" alt="vCamilx's most used languages"/>
