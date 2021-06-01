@@ -1,8 +1,8 @@
 ### Welcome to vCamilo's cave 👋
  * 😍 My name is **Camilo**, I am acurrently a programming student at [@Akardoo Devcamp](https://twitter.com/akardoo), Ex-Owner at [@HazelMC](https://twitter.com/HazelMCNetwork), Ex-Developer at [@GalanthusMC](https://twitter.com/GalanthusMC) and Ex-COO at [@VelixServices](https://discord.gg/qHdxPDm) !.
- * 🌴 I am learning Java, Html & Css.
+ * 🌴 I am learning Java.
  * 🥳 I am 15 years old
- * 📨 If you want to negotiate with me you can do it from my discord: **Camilø#7828**
+ * 📨 If you want to contact me you can do it from my discord: **Camilø#7828**
 
 ---
 
