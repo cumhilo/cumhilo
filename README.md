@@ -1,22 +1,16 @@
 ### Welcome to vCamilo's cave 👋
- * 😍 My name is **Camilo**, I am acurrently a programming student at [@Akardoo Devcamp](https://twitter.com/akardoo), Ex-Owner at [@HazelMC](https://twitter.com/HazelMCNetwork), Ex-Developer at [@GalanthusMC](https://twitter.com/GalanthusMC) and Ex-COO at [@VelixServices](https://discord.gg/qHdxPDm) !.
- * 🌴 I am learning Java.
+
+![](https://komarev.com/ghpvc/?username=vCamilxe&color=blueviolet)
+
+<!-- If you think my profile is similar to ElB1to's, it is pure coincidence. Just kidding (here is his github profile: https://github.com/Elb1to/) --->
+
+ * 😍 My name is **Camilo**, I started learning programming about 9 months ago, at the beginning of 2021, I have some experience working with teams and on my own.
+ * 🌴 I have knowledge in java and I want to learn more about programming!I am learning Java.
  * 🥳 I am 15 years old
- * 📨 If you want to contact me you can do it from my discord: **Camilø#7828**
+ * 📨 If you want to contact me you can do it from my discord: **788212618611261471** <--- That's my id, in case I ever change tags.
 
 ---
 
 ### GitHub Stats 🎊
 
-<a href="https://github.com/vCamilx">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vCamilx&theme=midnight-purple&locale=en" alt="vCamilx's github stats"/>
-</a>
-<br>
-
----
-
-### Most used languages ✨
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vCamilx&layout=compact&theme=midnight-purple&locale=en">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vCamilx&layout=compact&theme=midnight-purple&locale=en" alt="vCamilx's most used languages"/>
-</a>
+![Metrics](https://metrics.lecoq.io/vCamilx?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=America%2FColombia&config.padding=0%2C%2015%25)
