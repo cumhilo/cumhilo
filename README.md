@@ -1,11 +1,12 @@
-### Welcome to Cumhilo's cave 👋
+### Welcome to Cumhilo's Cave 👋
 
-![](https://komarev.com/ghpvc/?username=vCamilxe&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=vCamilxe&color=blueviolet)
 
- * 😍 My name is **Cristian Guzmán**, I started programming four years ago, at the end of 2020 and beginning of 2021, I've experience working in teams and on my own.
- * 🌴 I've knowledge in java, golang, redis, mongo, html, css and some other things, plus I want to learn more about programming!
- * 🥳 I'm 18 years old (19/03/2006)
- * 📨 If you want to contact me you can do it from my discord: @cumilo (`788212618611261471`) or or via email: **xenitzys@engineer.com**
+**😍 About Me:**
+- I'm **Cristian Guzmán**. I started programming four years ago, at the end of 2020 and beginning of 2021. I have experience working both in teams and independently.
+- 🌴 I have knowledge in Java, Golang, Redis, MongoDB, HTML, CSS, and more. I am always eager to learn more about programming!
+- 🥳 I am 18 years old (Born on 19/03/2006).
+- 📨 Feel free to contact me on Discord: @cumilo (`788212618611261471`) or via email: **cumhilo@gmail.com**
 
 ---
 
