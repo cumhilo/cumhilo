@@ -4,7 +4,6 @@
 - Expert in server creation and maintenance
 with backend knowledge in Redis and MongoDB.
 - Focused on Minecraft projects, bringing innovation and dedication in collaborative environments.
-dedication in collaborative environments.
 
 ---
 
