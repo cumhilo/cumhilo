@@ -1,8 +1,7 @@
 # I'm also known as @ Camilo ❤️
 
-» **Software developer** with more than **4 years of experience**, specialized in **Java and Kotlin**.
-- Expert in server creation and maintenance
-with backend knowledge in Redis and MongoDB.
+» **Software developer** with more than **6 years of experience**, specialized in **Java and Backend designs**.
+- Expert in Minecraft servers creation and maintenance.
 - Focused on Minecraft projects, bringing innovation and dedication in collaborative environments.
 
 ---
